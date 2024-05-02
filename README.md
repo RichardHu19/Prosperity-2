@@ -6,7 +6,7 @@ Link to competition: https://prosperity.imc.com/
 
 **Final Rank**: 648th out of ~7,000 teams
 
-# Round 1
+## Round 1
 
 For the first round, our team maintained a position of starfruit and amethysts 
 based on how far their price was from the average price.
