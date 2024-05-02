@@ -9,8 +9,8 @@ Link to competition: https://prosperity.imc.com/
 ## Round 1
 
 For the first round, our team maintained a position of starfruit and amethysts 
-based on how far their price was from the average price.
+based on how far the order price was from the average price of the good.
 
 The manual challenge was completed by calculating the expected value of each
-pair of bids, as the pdf was given as linear. The otpimal values were
+pair of bids, which was possible as the pdf was given as linear. The optimal values were
 952 and 978.
