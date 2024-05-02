@@ -1,6 +1,6 @@
 # Prosperity 2
 
-My algorithms used for Prosperity 2!
+My algorithms used for Prosperity 2, a virtual trading competition hosted by IMC.
 
 Link to competition: https://prosperity.imc.com/
 
